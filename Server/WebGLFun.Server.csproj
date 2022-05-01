@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Client\WebGLFun.Client.csproj" />
-    <ProjectReference Include="..\Shared\WebGLFun.Shared.csproj" />
   </ItemGroup>
 
 
